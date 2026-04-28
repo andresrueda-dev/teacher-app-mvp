@@ -1,0 +1,8 @@
+teacher-app-mvp/
+│
+├── app.py
+├── data/
+│   └── registros.csv
+├── students/
+│   └── grupos.json
+└── README.md
